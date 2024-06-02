@@ -14,7 +14,7 @@ I will also explore other reputable sources that provide high-quality tutorials 
 ## Project Structure
 
 Each tutorial or project will be organized in its own folder within this repository. The folder structure will be as follows:
-
+```
 ReactTutorials/
 ├── tutorial-1/
 │   ├── README.md
@@ -26,6 +26,7 @@ ReactTutorials/
 │   └── ...
 ├── ...
 └── README.md
+```
 
 Each tutorial folder will contain a `README.md` file with details about the specific tutorial, such as the source, topics covered, and any additional notes or resources.
 
