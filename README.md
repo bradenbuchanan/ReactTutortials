@@ -15,7 +15,7 @@ I will also explore other reputable sources that provide high-quality tutorials 
 
 Each tutorial or project will be organized in its own folder within this repository. The folder structure will be as follows:
 
-react-nextjs-tutorials/
+ReactTutorials/
 ├── tutorial-1/
 │   ├── README.md
 │   ├── src/
