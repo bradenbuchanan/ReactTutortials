@@ -1,7 +1,4 @@
 # ReactTutortials
-
-# React and Next.js Learning Projects
-
 This repository serves as a collection of projects and code snippets created while following along with various React and Next.js tutorials from popular online resources. The primary goal of this repo is to enhance my understanding of full-stack development by practicing and implementing the concepts learned through these tutorials.
 
 ## Learning Resources
