@@ -1,0 +1,18 @@
+.formStyling {
+    padding: 50px;
+    margin: 20px;
+}
+.formStyling button {
+    background-color: #f55845;
+    margin-left: 10px;
+    color: white;
+    border-radius: 20px;
+    font-size: 14px;
+    padding: 10px 30px;
+}
+
+input {
+    width: 300px;
+    height: 20px;
+    border-radius: 10px;
+}
